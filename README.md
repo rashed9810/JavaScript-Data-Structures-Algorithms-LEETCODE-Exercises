@@ -1,8 +1,13 @@
 # JavaScript Data Structures, Algorithms & LeetCode Exercises
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/42115530/92991630-3f855e00-f4e2-11ea-8f77-52f0d3b97ee2.gif" alt="Coding" width="500">
+</div>
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+[![Stars](https://img.shields.io/github/stars/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/stargazers)
+[![Forks](https://img.shields.io/github/forks/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/network/members)
+[![Issues](https://img.shields.io/github/issues/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/issues)
 
-Welcome to the **JavaScript Data Structures, Algorithms & LeetCode Exercises** repository. This is your one-stop destination for diving deep into the world of algorithms and data structures tailored for JavaScript enthusiasts. From beginners to seasoned developers, this repository is designed to sharpen your problem-solving skills and prepare you for technical interviews with a hands-on approach.
+This repository contains a comprehensive collection of data structures and algorithms implemented in JavaScript, along with solutions to various LeetCode problems. It serves as an invaluable resource for learning and practicing fundamental computer science concepts, as well as preparing for technical interviews.
 
 ## 📚 Technical Contents
 
