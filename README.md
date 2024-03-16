@@ -11,7 +11,7 @@ This repository contains a comprehensive collection of data structures and algor
 
 ## 📚 Technical Contents
 
-Within this repository, you'll find a meticulously organized collection of topics, each complete with examples, explanations, and exercises to practice.
+This repository contains a carefully selected collection of topics, all of which come with practice tasks, explanations, and examples.
 
 ### 🚀 Big O Notation
 
@@ -21,7 +21,7 @@ Within this repository, you'll find a meticulously organized collection of topic
 
 ## 🏗 Data Structures
 
-Embark on a journey through the foundational building blocks of computer science:
+Set Towards on a journey through the foundational building blocks of computer science:
 
 - **Arrays**: Traverse, manipulate, and master array operations
 - **Linked Lists**: Conquer single and double-linked list implementations
