@@ -4,10 +4,9 @@
   <img src="https://user-images.githubusercontent.com/42115530/92991630-3f855e00-f4e2-11ea-8f77-52f0d3b97ee2.gif" alt="Coding" width="500">
 </div>
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/network/members)
-[![Issues](https://img.shields.io/github/issues/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/yourusername/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/issues)
+[![Stars](https://img.shields.io/github/stars/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/stargazers)
+[![Forks](https://img.shields.io/github/forks/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/network/members)
+[![Issues](https://img.shields.io/github/issues/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/issues)
 
 This repository contains a comprehensive collection of data structures and algorithms implemented in JavaScript, along with solutions to various LeetCode problems. It serves as an invaluable resource for learning and practicing fundamental computer science concepts, as well as preparing for technical interviews.
 
