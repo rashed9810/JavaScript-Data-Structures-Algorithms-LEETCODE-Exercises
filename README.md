@@ -1,62 +1,53 @@
-# JavaScript Data Structures and Algorithms: LeetCode Exercises
+# JavaScript Data Structures, Algorithms & LeetCode Exercises
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/42115530/92991630-3f855e00-f4e2-11ea-8f77-52f0d3b97ee2.gif" alt="Coding" width="500">
-</div>
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
-[![Stars](https://img.shields.io/github/stars/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/stargazers)
-[![Forks](https://img.shields.io/github/forks/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/network/members)
-[![Issues](https://img.shields.io/github/issues/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises)](https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises/issues)
+Welcome to the **JavaScript Data Structures, Algorithms & LeetCode Exercises** repository. This is your one-stop destination for diving deep into the world of algorithms and data structures tailored for JavaScript enthusiasts. From beginners to seasoned developers, this repository is designed to sharpen your problem-solving skills and prepare you for technical interviews with a hands-on approach.
 
-This repository contains a comprehensive collection of data structures and algorithms implemented in JavaScript, along with solutions to various LeetCode problems. It serves as an invaluable resource for learning and practicing fundamental computer science concepts, as well as preparing for technical interviews.
+## 📚 Technical Contents
 
-## Table of Contents
+Within this repository, you'll find a meticulously organized collection of topics, each complete with examples, explanations, and exercises to practice.
 
-- [Big O Notation](#big-o-notation)
-- [Data Structures](#data-structures)
-  - [Arrays](#arrays)
-  - [Linked Lists](#linked-lists)
-  - [Doubly Linked Lists](#doubly-linked-lists)
-  - [Stacks and Queues](#stacks-and-queues)
-  - [Binary Trees](#binary-trees)
-  - [Hash Tables](#hash-tables)
-  - [Graphs](#graphs)
-- [Algorithms](#algorithms)
-  - [Sorting](#sorting)
-    - [Bubble Sort](#bubble-sort)
-    - [Selection Sort](#selection-sort)
-    - [Insertion Sort](#insertion-sort)
-    - [Merge Sort](#merge-sort)
-    - [Quick Sort](#quick-sort)
-  - [Searching](#searching)
-    - [Breadth-First Search (BFS)](#breadth-first-search-bfs)
-    - [Depth-First Search (DFS)](#depth-first-search-dfs)
-- [LeetCode Solutions](#leetcode-solutions)
-- [Contributing](#contributing)
-- [License](#license)
+### 🚀 Big O Notation
 
-## Big O Notation
+- Understand algorithm efficiency and performance
+- Time complexity analysis with real code examples
+- Space complexity insights for memory optimization
 
-Understanding Big O notation is crucial for analyzing the time and space complexity of algorithms. This repository includes in-depth explanations and illustrative examples of Big O notation, helping you grasp the concept and its implications in algorithm design and optimization.
+## 🏗 Data Structures
 
-## Data Structures
+Embark on a journey through the foundational building blocks of computer science:
 
-### Arrays
+- **Arrays**: Traverse, manipulate, and master array operations
+- **Linked Lists**: Conquer single and double-linked list implementations
+- **Doubly Linked Lists**: Delve deeper with two-way linked list structures
+- **Stacks & Queues**: Decode LIFO and FIFO principles in action
+- **Binary Trees**: Traverse, balance, and solve problems with binary trees
+- **Hash Tables**: Implement, hash, and handle collisions
+- **Graphs**: Represent, explore, and search through graph data structures
 
-Arrays are fundamental data structures that store a collection of elements in contiguous memory locations. This repository covers various array operations, such as traversal, insertion, deletion, and searching, along with their time complexities. It also explores advanced techniques like dynamic arrays and array manipulation algorithms.
+## 🔍 Algorithms
 
-### Linked Lists
+Tackle a wide array of classic algorithmic challenges:
 
-Linked lists are linear data structures where elements are not stored in contiguous memory locations. This repository implements singly linked lists and provides examples of common operations like insertion, deletion, and traversal. It also covers advanced topics like circular linked lists and linked list variants.
+### Sorting
 
-### Doubly Linked Lists
+- **Bubble Sort**: Visualize and implement the quintessential sorting algorithm
+- **Selection Sort**: Optimize sorting with a minimalistic approach
+- **Insertion Sort**: Understand adaptive sorting techniques
+- **Merge Sort**: Divide and conquer arrays with merge sort
+- **Quick Sort**: Master the art of partitioning with quick sort
 
-Doubly linked lists are a variant of linked lists where each node contains pointers to both the next and previous nodes. This repository covers the implementation and operations of doubly linked lists, as well as their advantages and use cases.
+### Searching
 
-### Stacks and Queues
+- **Breadth-First Search (BFS)**: Unravel the layers with breadth-first traversal
+- **Depth-First Search (DFS)**: Dive deep with depth-first strategies
 
-Stacks and queues are linear data structures with specific insertion and deletion rules. This repository includes implementations of stacks (LIFO) and queues (FIFO), along with their common operations and real-world applications. It also explores advanced topics like deques (double-ended queues) and priority queues.
+## 🚀 Getting Started
 
-### Binary Trees
+To embark on this coding adventure, follow these simple steps:
 
-Binary trees are hierarchical data structures where each node can have at most two children. This repository covers the implementation of binary trees, along with various traversal techniques (e.g., pre-order, in-order, post-order) and common operations like insertion, deletion
+1. **Clone the repository**
+
+```sh
+git clone https://github.com/rashed9810/JavaScript-Data-Structures-Algorithms-LEETCODE-Exercises.git
